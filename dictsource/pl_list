@@ -238,12 +238,12 @@ jaws dZ'Ews
 // komputery, komputery
 
 home	xOwm
-(page up) 	pEjdZ'ap
+(page up) 	pEjdZ||'ap
 pageup		pEjdZ'ap
-(page down)	pEjdZd'awn
+(page down)	pEjdZ||d'awn
 pagedown	pEjdZd'awn
-(caps lock)	kapslOk
-(num lock)	numlOk
+(caps lock)	kaps||lOk
+(num lock)	num||lOk
 escape		Esk'Ejp
 backspace	b'EkspEjs
 evolution	EvOl'uSyn
@@ -251,7 +251,7 @@ load		lOwd
 office		Ofis
 play		plEj
 scane		skan
-(screen reader) skRinR'idEr
+(screen reader) skRin||R'idEr
 (sound juicer)	sawnd||dZ'usER
 thunderbird	$1
 view		v;u
@@ -554,30 +554,30 @@ mln		miljOnuf
 mld		miljaRduf
 
 //popularne zagraniczniaki nieodmienne (no, prawie)
-(ad hoc) adh'Ok
+(ad hoc) ad||h'Ok
 adieu	adj'E
-(ad oculos) ad'OkulOs
+(ad oculos) ad||'OkulOs
 angelica	angElika $2
 
-(carte blanche) kaRtbl'anS
+(carte blanche) kaRt||bl'anS
 challenge	tSElEndZ
 chanson		SansO~	$2
-(chargé d'affaires) SaRZEdafER	$4
-(charge d'affaires) SaRZEdafER	$4
+(chargé d'affaires) SaRZE||dafER	$4
+(charge d'affaires) SaRZE||dafER	$4
 charmant	SaRman	$2
 charme		SaRm
 charmeur	SaRmER	$2
 charmeuse	SaRmEz	$2
 chippendale	tSipEndEjl
 chippendale	tSipEndEjl $1 $only
-(chow chow)	tSawtSau	$2
+(chow chow)	tSaw||tSau	$2
 ciao	tSjaw
-(cicer cum caule)	ts,itsERkumk'awlE
-(ci devant)	sidEv'aN
+(cicer cum caule)	ts,itsER||kum||k'awlE
+(ci devant)	si||dEv'aN
 cinquecento	tSinkwEtSEntO
 circa		tsiRka
-(cis dur)	tsisd'uR
-(cis moll)	tsism'Ol
+(cis dur)	tsis||d'uR
+(cis moll)	tsis||m'Ol
 cito		tsitO
 city		tsity
 cliché		kliS'E
@@ -592,7 +592,7 @@ con	kOn
 concierge	kOnsj'ERZ
 cool		kul
 copyright	k'OpyRajt
-(cosa nostra)	k,Ozan'OstRa
+(cosa nostra)	k,Oza||n'OstRa
 cottage		kOtydZ
 coupé		kup'E
 coupe		kup'E
@@ -602,15 +602,15 @@ culpa		kulpa
 curriculum	kuR'ikulum
 
 d'amour		damuR	$2
-(de facto)	dEfaktO
-(de iure)	dEjuRE
-(déjà vu)	dEZav'i
-(déjà vue)	dEZav'i
-(deja vu)	dEZav'i
-(deja vue)	dEZav'i
+(de facto)	dE||faktO
+(de iure)	dE||juRE
+(déjà vu)	dEZa||v'i
+(déjà vue)	dEZa||v'i
+(deja vu)	dEZa||v'i
+(deja vue)	dEZa||v'i
 dell'arte	dEl'aR
 del'arte	dEl'aR
-(dies irae) d;'ijEs'iRE
+(dies irae) d;'ijEs||'iRE
 dinghy	d;iNgi
 
 faciendi	fasjEndi
@@ -623,11 +623,11 @@ graecas	gREkas
 monsieur mEsj'E
 madame	mad'am
 mademoiselle madmuaz'El
-(maitré d'hotel) mEtREdOt'El
-(maitre d'hotel) mEtREdOt'El
+(maitré d'hotel) mEtRE||dOt'El
+(maitre d'hotel) mEtRE||dOt'El
 mlle	madmuaz'El
-(mon ami)	mOnami $3
-(mon cher)	mO~SER $2
+(mon ami)	mOn||ami $3
+(mon cher)	mO~||SER $2
 
 new	n^;u
 
@@ -635,20 +635,20 @@ out	awt
 
 poirot	puwaR'O // odmieniony w regułkach
 
-(qui pro quo) kvipROkvO $3
+(qui pro quo) kvi||pRO||kvO $3
 rock		rOk
 
 sir	sER
 sire	siR
 street		stRit
 
-(va banque) vab'aNk
+(va banque) va||b'aNk
 variétés	varjEtE $3
 varietes	varjEtE $3
 via		via
 vice		vitsE
-(vis à vis)	vizavi $3
-(vis a vis)	vizavi $3
+(vis à vis)	viz||a||vi $3
+(vis a vis)	viz||a||vi $3
 voilà		vuala $3
 voila		vuala $3
 vivace		vivatSE
@@ -669,21 +669,21 @@ chantilly	Santiji	$3
 chianti		kjanti
 chili		tSili
 chilli		tSili
-(chili con carne) tS,ilikOnk'arnE
-(chop suey)	tSOpsui
+(chili con carne) tS,ili||kOn||k'arnE
+(chop suey)	tSOp||sui
 coca		kOka
 cola		kOla
 coleslaw	kOlEslOw
 croissant	kRuas'aN
 cumberland	k'ambERlEnd
-(cura çao)	kiRasaO
+(cura çao)	kiRa||saO
 curaçao		kiRasaO
 curacao		kiRasaO
 curry		kaRy
-(de la maison)	dElamEz'O~
-(de volaille)	dEvOl'aj
-(a la)		al'a
-(á la)		al'a
+(de la maison)	dE||la||mEz'O~
+(de volaille)	dE||vOl'aj
+(a la)		a||l'a
+(á la)		a||l'a
 muesli		musli
 müsli		musli
 quiche		kiS
@@ -696,118 +696,118 @@ winegret	$3
 
 // stress... stress... stress...
 
-(o mnie)	 'Omn^;E
-(o nas)		 'Onas
-(o niej)	 'On^;Ej
-(o nim)		 'On^im
-(o nie)		 'On^;E
-(o nią)		 'On^;O~
-(o tą) 		 'OtO~
-(o te)	 	 'OtE
-(o to) 		 'OtO
-(o tych) 	 'Otyh
-(o tym) 	 'Otym_
-(o was) 	 'Ovas
-(na mnie) 	 n'amn^;E
-(na nas) 	 n'anas
-(na niej) 	 n'an^;Ej
-(na nim) 	 n'an^im
-(na nich) 	 n'an^ih
-(na nie) 	 n'an^;E
-(na nią) 	 n'an^;O~
-(na tą) 	 n'atO~
-(na te) 	 n'atE
-(na to) 	 n'atO
-(na tych) 	 n'atyh
-(na tym) 	 n'atym_
-(na was) 	 n'avas
-(nad nas) 	 n'adnas
-(nad nią) 	 n'adn^;O~
-(nad nim) 	 n'adn^im
-(nad nich) 	 n'adn^ih
-(nad nie) 	 n'adn^;E
-(nad tą) 	 n'attO~
-(nad te) 	 n'attE
-(nad to) 	 n'attO
-(nad tym) 	 n'attym
-(nad was) 	 n'advas
-(nade mną) 	 nad'EmnO~
-(nade mnie) 	 nad'Emn^;E
-(po mnie) 	 p'Omn^;E
-(po nas) 	 p'Onas
-(po niej) 	 p'On^;Ej
-(po nim) 	 p'On^im
-(po nich) 	 p'On^ih
-(po nie) 	 p'On^;E
-(po tą) 	 p'OtO~
-(po te) 	 p'OtE
-(po to) 	 p'OtO
-(po tym) 	 p'Otym
-(po was) 	 p'Ovas
-(pod nas) 	 p'Odnas
-(pod nią) 	 p'Odn^;O~
-(pod nim) 	 p'Odn^im
-(pod nich) 	 p'Odn^ih
-(pod nie) 	 p'Odn^;E
-(pod tą) 	 p'OttO~
-(pod te) 	 p'OttE
-(pod to) 	 p'OttO
-(pod tym) 	 p'Ottym
-(pod was) 	 p'Odvas
-(pode mną) 	 pOd'EmnO~
-(pode mnie) 	 pOd'Emn^;E
-(poza mną) 	 pOz'amnO~
-(poza nią) 	 pOz'an^;O~
-(poza nim) 	 pOz'an^im
-(przed nas) 	 pS'Ednas
-(przed nią) 	 pS'Edn^;O~
-(przed nim) 	 pS'Edn^im
-(przed tą) 	 pS'EttO~
-(przed te) 	 pS'EttE
-(przed to) 	 pS'EttO
-(przed tych) 	 pS'Ettyh
-(przed tym) 	 pS'Ettym
-(przed was) 	 pS'Edvas
-(przed nich) 	 pS'Edn^ih
-(przed nie) 	 pS'Edn^;E
-(przede mną) 	 pSEd'EmnO~
-(przede mnie) 	 pSEd'Emn^;E
-(przez nas) 	 pS'Eznas
-(przez nią) 	 pS'Ezn^;O~
-(przez tą) 	 pS'EstO~
-(przez te) 	 pS'EstE
-(przez to) 	 pS'EstO
-(przez tych) 	 pS'Estyh
-(przez was) 	 pS'Ezvas
-(przez nich) 	 pS'Ezn^ih
-(przez nie) 	 pS'Ezn^;E
-(przeze mnie) 	 pSEz'Emn^;E
-(przy mnie) 	 pS'ymn^;E
-(przy nas) 	 pS'ynas
-(przy nich) 	 pS'yn^ih
-(przy niej) 	 pS'yn^;Ej
-(przy nim) 	 pS'yn^im
-(przy tej) 	 pS'ytEj
-(przy tych) 	 pS'ytyh
-(przy tym) 	 pS'ytym
-(przy was) 	 pS'yvas
+(o mnie)	 'O||mn^;E
+(o nas)		 'O||nas
+(o niej)	 'O||n^;Ej
+(o nim)		 'O||n^im
+(o nie)		 'O||n^;E
+(o nią)		 'O||n^;O~
+(o tą) 		 'O||tO~
+(o te)	 	 'O||tE
+(o to) 		 'O||tO
+(o tych) 	 'O||tyh
+(o tym) 	 'O||tym_
+(o was) 	 'O||vas
+(na mnie) 	 n'a||mn^;E
+(na nas) 	 n'a||nas
+(na niej) 	 n'a||n^;Ej
+(na nim) 	 n'a||n^im
+(na nich) 	 n'a||n^ih
+(na nie) 	 n'a||n^;E
+(na nią) 	 n'a||n^;O~
+(na tą) 	 n'a||tO~
+(na te) 	 n'a||tE
+(na to) 	 n'a||tO
+(na tych) 	 n'a||tyh
+(na tym) 	 n'a||tym_
+(na was) 	 n'a||vas
+(nad nas) 	 n'ad||nas
+(nad nią) 	 n'ad||n^;O~
+(nad nim) 	 n'ad||n^im
+(nad nich) 	 n'ad||n^ih
+(nad nie) 	 n'ad||n^;E
+(nad tą) 	 n'at||tO~
+(nad te) 	 n'at||tE
+(nad to) 	 n'at||tO
+(nad tym) 	 n'at||tym
+(nad was) 	 n'ad||vas
+(nade mną) 	 nad'E||mnO~
+(nade mnie) 	 nad'E||mn^;E
+(po mnie) 	 p'O||mn^;E
+(po nas) 	 p'O||nas
+(po niej) 	 p'O||n^;Ej
+(po nim) 	 p'O||n^im
+(po nich) 	 p'O||n^ih
+(po nie) 	 p'O||n^;E
+(po tą) 	 p'O||tO~
+(po te) 	 p'O||tE
+(po to) 	 p'O||tO
+(po tym) 	 p'O||tym
+(po was) 	 p'O||vas
+(pod nas) 	 p'Od||nas
+(pod nią) 	 p'Od||n^;O~
+(pod nim) 	 p'Od||n^im
+(pod nich) 	 p'Od||n^ih
+(pod nie) 	 p'Od||n^;E
+(pod tą) 	 p'Ot||tO~
+(pod te) 	 p'Ot||tE
+(pod to) 	 p'Ot||tO
+(pod tym) 	 p'Ot||tym
+(pod was) 	 p'Od||vas
+(pode mną) 	 pOd'E||mnO~
+(pode mnie) 	 pOd'E||mn^;E
+(poza mną) 	 pOz'a||mnO~
+(poza nią) 	 pOz'a||n^;O~
+(poza nim) 	 pOz'a||n^im
+(przed nas) 	 pS'Ed||nas
+(przed nią) 	 pS'Ed||n^;O~
+(przed nim) 	 pS'Ed||n^im
+(przed tą) 	 pS'Et||tO~
+(przed te) 	 pS'Et||tE
+(przed to) 	 pS'Et||tO
+(przed tych) 	 pS'Et||tyh
+(przed tym) 	 pS'Et||tym
+(przed was) 	 pS'Ed||vas
+(przed nich) 	 pS'Ed||n^ih
+(przed nie) 	 pS'Ed||n^;E
+(przede mną) 	 pSEd'E||mnO~
+(przede mnie) 	 pSEd'E||mn^;E
+(przez nas) 	 pS'Ez||nas
+(przez nią) 	 pS'Ez||n^;O~
+(przez tą) 	 pS'Es||tO~
+(przez te) 	 pS'Es||tE
+(przez to) 	 pS'Es||tO
+(przez tych) 	 pS'Es||tyh
+(przez was) 	 pS'Ez||vas
+(przez nich) 	 pS'Ez||n^ih
+(przez nie) 	 pS'Ez||n^;E
+(przeze mnie) 	 pSEz'E||mn^;E
+(przy mnie) 	 pS'y||mn^;E
+(przy nas) 	 pS'y||nas
+(przy nich) 	 pS'y||n^ih
+(przy niej) 	 pS'y||n^;Ej
+(przy nim) 	 pS'y||n^im
+(przy tej) 	 pS'y||tEj
+(przy tych) 	 pS'y||tyh
+(przy tym) 	 pS'y||tym
+(przy was) 	 pS'y||vas
 (w lwowie) 	 we lwowie $text
 (w mnie) 	 we mnie $text
 (w śnie) 	 we śnie $text
 (w znaki) 	 we znaki $text
-(za mnie) 	 z'amn^;E
-(za nas) 	 z'anas
-(za nią) 	 z'an^;O~
-(za nim) 	 z'an^im
-(za tą) 	 z'atO~
-(za te) 	 z'atE
-(za to) 	 z'atO
-(za tym) 	 z'atym
-(za was) 	 z'avas
-(za nich) 	 z'an^ih
-(za nie) 	 z'an^;E
-(ze mnie) 	 z'Emn^;E
-(ze mną) 	 z'EmnO~
+(za mnie) 	 z'a||mn^;E
+(za nas) 	 z'a||nas
+(za nią) 	 z'a||n^;O~
+(za nim) 	 z'a||n^im
+(za tą) 	 z'a||tO~
+(za te) 	 z'a||tE
+(za to) 	 z'a||tO
+(za tym) 	 z'a||tym
+(za was) 	 z'a||vas
+(za nich) 	 z'a||n^ih
+(za nie) 	 z'a||n^;E
+(ze mnie) 	 z'E||mn^;E
+(ze mną) 	 z'E||mnO~
 (z mną) 	 ze mną $text
 (z mnie) 	 ze mnie $text
 (ze mną) 	 z'E||mnO~
@@ -3100,5 +3100,5 @@ schliście	$alt
 schłyśmy	$alt
 schłyście	$alt
 
-(pi s)   pEi;'Es
+(pi s)   pE||i;||'Es
 
