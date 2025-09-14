@@ -808,6 +808,16 @@ winegret	$3
 (za nie) 	 z'an^;E
 (ze mnie) 	 z'Emn^;E
 (ze mną) 	 z'EmnO~
+(z mną) 	 ze mną $text
+(z mnie) 	 ze mnie $text
+(ze mną) 	 z'E||mnO~
+(ze mnie) 	 z'E||mn^;E
+(z lwowa) 	 ze lwowa $text
+(z lwowem) 	 ze lwowem $text
+(z łzami) 	 ze łzami $text
+(z snu) 	 ze snu $text
+(z wszech) 	 ze wszech $text
+(fora z dwora) 	 fora ze dwora $text
 
 	
 // words marked with $combine are combined with word marked with $alt
