@@ -538,6 +538,7 @@ kpr		kapRal	$dot
 ekg		Ekag;'E	$abbrev
 usg		u_Esg;'E	$abbrev
 
+wg		v'Edwuk
 tzn		tO||znatSy	$dot
 itd		i||tak||dalEj	$dot
 itp		i||tEmu||pOdObnE	$dot
@@ -547,6 +548,7 @@ etc		Ets'EtERa	$dot
 
 ok		OkOwO	$dot
 ok		Ok'Ej $allcaps
+okay		Ok'Ej
 
 np		napS'ykwad $dot
 tys		tyS;E~tsy $dot
