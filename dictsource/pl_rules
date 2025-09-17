@@ -23,6 +23,7 @@
      C) ai (r      E
   _alt) ai (r      ai
     _k) ai (r      ai
+    _)  approval   apRuva#l
      _) archie     ERtSi
      _) archie (C  ERtS|;E
         acku (p    Eka
@@ -64,6 +65,7 @@
     ja) bł (kA     p
         b (_       p
         b (i       b;
+     _) backup     bEka#p
         bi (A      b;j
 
 .group	 c
@@ -209,6 +211,9 @@
         di (A      dj
         dies (lA   d;iz
         dies (el   d;iz
+     _) deadlin    dEdla#jn
+     _) deadline   dEdla#jn
+     _) deadline (C dEdla#jne
         dz         dz
         dz (_      ts
         dz (i      dz;
@@ -465,6 +470,9 @@ tekton) i (kach_   =i
      _) jack (y    dZEk
         jea (ns    dZi
      _) jeff       dZEf
+     _) jirami (_  dZiRami
+     _) jirze (_   dZiZE
+     _) jir        dZiR
      _) jonath     dZOnat
      _) jacques    Zak
 
@@ -495,6 +503,9 @@ tekton) i (kach_   =i
         m (_       m_
      A) mi (A      mj
   _zie) mi (A      m;
+     _) meeting (A mit;iNg
+     _) meeting (C mit;iNk
+     _) meeting    mit;iNg
      _) mj (rA     majO
      _) mc (P2t    mEk
 
@@ -532,6 +543,7 @@ tekton) i (kach_   =i
         o          O
         o (_A      O:_
         oeth       Et
+        open       OwpEn
      _) outsid     awtsajd
     _p) oi (rotA   uwa
     _d) ow (n      aw
@@ -563,6 +575,8 @@ _fotoko) pi (A     pj
      _) pł (k      puwkOvni
      _) pł (c      puwkOvni
 
+     _) python     pajtOn
+
 .group	 q
         q          k
         qu (A      kv
@@ -572,6 +586,9 @@ _fotoko) pi (A     pj
     A_) r (A       R
      K) r (A       R
         ri (A      Rj
+     _) requeście (_ RikwES;ts;E
+     _) request (A RikwEst
+     _) request    RikwEst
      A) rr (A      R
         r (zi      R
      A) r (zł      R
@@ -635,6 +652,10 @@ _salce) son (_++   =sOn
      _) sea (nie_  SO
      _) sea (nu_   SO
      _) sea (na_   SO
+        spacie (_  spEjS;E
+        space'ie (_ spEjS;E
+        space      spEjs
+     _) standup    stEnda#p
      y) stein      stEin
         stein (_S5t Stajn
         stein      Stajn
@@ -787,6 +808,8 @@ _anasta) si (L03_  sj
         t          t
         t (i       t;
         ti (A      tj
+     _) tickecie (_ t;ikEts;E
+     _) ticket     t;ikEt
         t (rz      t|
         t (s       t|
         town (_S4t tawn
