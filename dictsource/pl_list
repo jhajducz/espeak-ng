@@ -255,6 +255,19 @@ llm		$abbrev
 small		smOl
 large		laRtS
 language	lENgwytS
+gemini		dZEmin^i
+qwen		kwEn
+sonnet		sOnEt
+chat		tSat $capital
+chatu		tSatu $capital
+chacie		tSats;E $capital
+chatem		tSatEm $capital
+chaty		tSaty $capital
+chatów		tSatuf $capital
+chatom		tSatOm $capital
+chatami	tSatami $capital
+chatach	tSatax $capital
+gpt		dZ'i||p'i||t;'i $allcaps
 home		xOwm
 (page up)	pEjdZ||'ap
 pageup		pEjdZ'ap
