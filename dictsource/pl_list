@@ -276,7 +276,8 @@ eject		iZ'Ekt
 forward		fORwERd
 backward	bEkwERd
 device		div'ajs
-devices		divajsis
+devices	divajsys
+led		l'Ed
 usb		$abbrev
 url		$abbrev
 drive		drajv
