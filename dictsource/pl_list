@@ -277,6 +277,7 @@ forward		fORwERd
 backward	bEkwERd
 device		div'ajs
 devices	divajsys
+hdmi		$abbrev
 led		l'Ed
 usb		$abbrev
 url		$abbrev
