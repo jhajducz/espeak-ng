@@ -277,6 +277,8 @@ forward		fORwERd
 backward	bEkwERd
 device		div'ajs
 devices	divajsys
+low		lOw
+energy		'EnERdZi
 hdmi		$abbrev
 led		l'Ed
 usb		$abbrev
