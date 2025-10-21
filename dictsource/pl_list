@@ -290,6 +290,9 @@ sh		$abbrev
 //ascii		'askEj
 ctrl		k'OntROl
 right		Rajt
+
+# nazwy marek
+apple		apl
 xiaomi		S;'aOmi
 
 // nazwy własne akcentowanie - wymowa w regułkach
