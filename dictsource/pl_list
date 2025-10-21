@@ -252,6 +252,8 @@ tts		$abbrev
 stt		$abbrev
 asr		A S R $text
 llm		$abbrev
+large		laRtS
+language	lENgwytS
 home		xOwm
 (page up)	pEjdZ||'ap
 pageup		pEjdZ'ap
