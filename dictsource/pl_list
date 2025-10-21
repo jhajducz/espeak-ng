@@ -290,6 +290,7 @@ sh		$abbrev
 //ascii		'askEj
 ctrl		k'OntROl
 right		Rajt
+xiaomi		S;'aOmi
 
 // nazwy własne akcentowanie - wymowa w regułkach
 // todo: more!
