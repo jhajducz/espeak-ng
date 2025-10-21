@@ -251,6 +251,7 @@ speech-to-text	sp'itS||t'u||t'Ekst
 tts		$abbrev
 stt		$abbrev
 asr		A S R $text
+llm		$abbrev
 home		xOwm
 (page up)	pEjdZ||'ap
 pageup		pEjdZ'ap
