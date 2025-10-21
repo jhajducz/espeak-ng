@@ -248,6 +248,9 @@ cuda		kuda $allcaps
 recognition	REkOgn^iSyn
 text-to-speech	t'Ekst||t'u||sp'itS
 speech-to-text	sp'itS||t'u||t'Ekst
+tts		$abbrev
+stt		$abbrev
+asr		A S R $text
 home		xOwm
 (page up)	pEjdZ||'ap
 pageup		pEjdZ'ap
