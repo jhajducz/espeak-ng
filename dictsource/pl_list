@@ -252,6 +252,7 @@ tts		$abbrev
 stt		$abbrev
 asr		A S R $text
 llm		$abbrev
+small		smOl
 large		laRtS
 language	lENgwytS
 home		xOwm
